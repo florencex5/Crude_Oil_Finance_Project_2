@@ -7,7 +7,7 @@
 
 ## Collaborative Action Points for different stakeholders
 1. **Oil Companies**
-   * *Mitigating "artificial" Tail Risk for a Better Economy Stability*
+   * *Mitigating "artificial" Tail Risk in The Energy Transition Period*
       * Oil companies must proactively address "artificial" tail risks, such as sudden supply chain changes, to ensure a stable economy. The 2023 instances of OPEC announcing oil production cuts underscore the importance of mitigating oil price volatility. Adjusting supply amounts is recognized as suboptimal for addressing both short-term profitability concerns and long-term development challenges, including navigating the energy transition and managing stress from potential "stranded assets." 
       * Based on my prior crude oil spot pricing model utilizing supply side data such as weekly refiner and blender production, the R-squared (R2) value surpassing 90% attests to the model's accuracy. This high precision indicates the significance of quality input data, demonstrating that over 90% of the variability in weekly crude oil WTI prices can be reliably accounted for.
    * *Redefining Short-term Profitability in the Context of the Energy Transition*
@@ -23,8 +23,16 @@
       * Drawing from Coe and Helpman's (1995) insights, emphasize the positive impact of foreign R&D efforts on domestic productivity. Pooling R&D investments from leading automakers is essential due to the substantial funding it provides, far surpassing individual capacities. This collaborative source could unite diverse professionals in the auto industry. Adopting a joint approach to technology innovation is more efficient for addressing the challenges posed by the current climate environment.The intricacies of hydrogen infrastructure development highlight the necessity for collaborative efforts in solving complexities.
     
 3. **Government**
-    * test 1
-    
+   * *Taking the Leadership for Efficient Hydrogen Infrastructure*
+      * Government could consider to take the leadership role in facilitating collaboration between oil companies and automakers to fortify the development of hydrogen infrastructure.In diverse transportation sectors, Maersk has initiated methanol-powered vessels, and the International Air Transportation Association is also advancing towards zero-emission hydrogen airplanes.
+      * Hydrogen transition complexities vary across shipping, aviation, and automotive industries, presenting potential higher challenges for the automotive sector:
+            1) Auto hydrogen infrastructure is more decentralized and intricate compared to aviation (centralized at airports) and shipping (sea-based)
+            2) The hydrogen infrastructure for autos entails higher risks due to its direct impact on people, occurring with greater frequency, contrasting the less risk-intensive goods transport in shipping.
+      * Beyond the complexities in constructing the auto industry's hydrogen infrastructure, conflicting interests between oil companies and traditional automakers need government intervention. The government's role is essential in mitigating climate-related risks (E.g. transition risk) and fostering a collaborative approach to address industry-specific challenges.
+      * **Pros of Government Intervention:**
+            1) Mitigate adverse effects of "unilateral" announcements (E.g., "zero-emission plans," "EV mandate sales") to ensure a balanced transition, considering both demand and practical supply chain plans for automakers (E.g., providing employees essential training skills for a smooth energy transition).
+            2) Recognize that investing in infrastructure offers protection against inflation, presenting a proactive and practical approach to avoid unnecessary market volatility, rather than planning for an "uncertain" soft landing economy.
+
 4. **Cross-Boarder Organizations**
     * test 1
     
