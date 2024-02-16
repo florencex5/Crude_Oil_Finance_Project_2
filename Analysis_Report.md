@@ -25,7 +25,7 @@
 3. **Government**
    * *Taking the Leadership for Efficient Hydrogen Infrastructure*
       * Government could consider to take the leadership role in facilitating collaboration between oil companies and automakers to fortify the development of hydrogen infrastructure. In diverse transportation sectors, Maersk has initiated methanol-powered vessels, and the International Air Transportation Association is also advancing towards zero-emission hydrogen airplanes.
-      * Hydrogen transition complexities vary across shipping, aviation, and automotive industries, presenting potential higher challenges for the automotive sector:
+      * Hydrogen transition complexities vary across shipping, aviation, and automotive industries, presenting potential higher challenges for the automotive sector based on current available technology:
         1) Auto hydrogen infrastructure is more decentralized and intricate compared to aviation (centralized at airports) and shipping (sea-based)
         2) The hydrogen infrastructure for autos entails higher risks due to its direct impact on people, occurring with greater frequency, contrasting the less risk-intensive goods transport in shipping.
       * Beyond the complexities in constructing the auto industry's hydrogen infrastructure, conflicting interests between oil companies and traditional automakers need government intervention. The government's role is essential in mitigating climate-related risks (E.g. transition risk) and fostering a collaborative approach to address industry-specific challenges.
