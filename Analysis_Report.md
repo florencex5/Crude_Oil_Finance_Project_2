@@ -24,14 +24,14 @@
     
 3. **Government**
    * *Taking the Leadership for Efficient Hydrogen Infrastructure*
-      * Government could consider to take the leadership role in facilitating collaboration between oil companies and automakers to fortify the development of hydrogen infrastructure.In diverse transportation sectors, Maersk has initiated methanol-powered vessels, and the International Air Transportation Association is also advancing towards zero-emission hydrogen airplanes.
+      * Government could consider to take the leadership role in facilitating collaboration between oil companies and automakers to fortify the development of hydrogen infrastructure. In diverse transportation sectors, Maersk has initiated methanol-powered vessels, and the International Air Transportation Association is also advancing towards zero-emission hydrogen airplanes.
       * Hydrogen transition complexities vary across shipping, aviation, and automotive industries, presenting potential higher challenges for the automotive sector:
-            1) Auto hydrogen infrastructure is more decentralized and intricate compared to aviation (centralized at airports) and shipping (sea-based)
-            2) The hydrogen infrastructure for autos entails higher risks due to its direct impact on people, occurring with greater frequency, contrasting the less risk-intensive goods transport in shipping.
+        1) Auto hydrogen infrastructure is more decentralized and intricate compared to aviation (centralized at airports) and shipping (sea-based)
+        2) The hydrogen infrastructure for autos entails higher risks due to its direct impact on people, occurring with greater frequency, contrasting the less risk-intensive goods transport in shipping.
       * Beyond the complexities in constructing the auto industry's hydrogen infrastructure, conflicting interests between oil companies and traditional automakers need government intervention. The government's role is essential in mitigating climate-related risks (E.g. transition risk) and fostering a collaborative approach to address industry-specific challenges.
       * **Pros of Government Intervention:**
-            1) Mitigate adverse effects of "unilateral" announcements (E.g., "zero-emission plans," "EV mandate sales") to ensure a balanced transition, considering both demand and practical supply chain plans for automakers (E.g., providing employees essential training skills for a smooth energy transition).
-            2) Recognize that investing in infrastructure offers protection against inflation, presenting a proactive and practical approach to avoid unnecessary market volatility, rather than planning for an "uncertain" soft landing economy.
+        * Mitigate adverse effects of "unilateral" announcements (E.g., "Zero-emission plans," "EV mandate sales") to ensure a balanced transition, considering both demand and practical supply chain plans for automakers (E.g., providing employees essential training skills for a smooth energy transition).
+        * Recognize that investing in infrastructure offers protection against inflation, presenting a proactive and practical approach to avoid unnecessary market volatility, rather than planning for an "uncertain" soft landing economy.
 
 4. **Cross-Boarder Organizations**
     * test 1
