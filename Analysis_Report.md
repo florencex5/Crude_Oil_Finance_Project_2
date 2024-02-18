@@ -1,17 +1,17 @@
-# Collaborative Action Points for US Auto Industry Sustainable Development -- Analysis Report
+# Collaborative Action Points for Auto Industry Sustainable Development -- Analysis Report
 
 
 ## Key Findings
 * test 1
 
 
-## Collaborative Action Points for different stakeholders
+## Collaborative Action Points for Different Stakeholders
 1. **Oil Companies**
-   * *Mitigating "artificial" Tail Risk in The Energy Transition Period*
+   * *Mitigating "Artificial" Tail Risk for The Better Economic Stability*
       * Oil companies must proactively address "artificial" tail risks, such as sudden supply chain changes, to ensure a stable economy. The 2023 instances of OPEC announcing oil production cuts underscore the importance of mitigating oil price volatility. Adjusting supply amounts is recognized as suboptimal for addressing both short-term profitability concerns and long-term development challenges, including navigating the energy transition and managing stress from potential "stranded assets." 
       * Based on my prior crude oil spot pricing model utilizing supply side data such as weekly refiner and blender production, the R-squared (R2) value surpassing 90% attests to the model's accuracy. This high precision indicates the significance of quality input data, demonstrating that over 90% of the variability in weekly crude oil WTI prices can be reliably accounted for.
    * *Redefining Short-term Profitability in the Context of the Energy Transition*
-      * Moreover, short-term profitability, as reflected in metrics like total revenue on financial statements, should not be considered as one of benchmark for evaluating oil company performance -- especially in the context of the ongoing energy transition. Rather than viewing the current decline in profits as a loss, it should be taken as strategic investments addressing the consequences of past actions impacting our environment and planning for a more sustainable future.
+      * Moreover, short-term profitability, as reflected in metrics like total revenue on financial statements, should not be considered as one of benchmark for evaluating oil company performance -- especially in this ongoing energy transition. Rather than viewing the current decline in profits as a loss, it should be taken as strategic investments addressing the consequences of past actions impacting our environment and planning for a more sustainable future.
    * *Advocating Transparency in Oil Production Scheduling*
       * While a collusive pricing strategy remains characteristic of an oligopoly market, adapting to changes in the current climate, where energy types can be renewed, prompts a reconsideration of pricing strategies. A potential transition to a more transparent pricing phase is essential for fostering market trust and aligning with sustainable development goals.For instance, OPEC, as the dominant organization in Petroleum Exporting, could consider to provide a quarterly schedule of oil production. This proactive approach aims to enhance market stability and facilitate strategic planning for oil companies and stakeholders alike. 
     
