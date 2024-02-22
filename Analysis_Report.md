@@ -2,7 +2,7 @@
 
 
 ## Key Findings
-* Achieving a seamless energy transition requires a comprehensive approach that extends beyond the capabilities of individual automakers, the entirety of the crude oil oligopoly market, or the impact of unilateral government directives (e.g., zero-emission and EV mandates) or annual United Nations Climate Change conferences. The noticeable lack of collaboration and interconnectivity among various stakeholders impedes efficient progress, subsequently hindering the sustainable growth of the auto industry. If addressing climate change is genuinely a universally acknowledged concern, it's time to foster collaboration across sectors and pave the way for impactful and sustainable growth in the auto industry,as well as a more feasible hydrogen economy.
+* Achieving a seamless energy transition requires a comprehensive approach that extends beyond the capabilities of *individual* automakers, the *entirety* of the crude oil oligopoly market, or the impact of *unilateral* government directives (e.g., zero-emission and EV mandates) or *annual* United Nations Climate Change conferences. The noticeable lack of *collaboration and interconnectivity* among various stakeholders impedes efficient progress, subsequently hindering the sustainable growth of the auto industry. If addressing climate change is genuinely a universally acknowledged concern, it's time to foster collaboration across sectors and pave the way for impactful and sustainable development in the auto industry, as well as a more feasible hydrogen economy.
 
 
 ## Collaborative Action Points for Related Stakeholders
