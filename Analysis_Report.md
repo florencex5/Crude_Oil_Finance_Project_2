@@ -2,10 +2,10 @@
 
 
 ## Key Findings
-* Achieving a seamless energy transition requires a comprehensive approach that extends beyond the capabilities of individual automakers, the entirety of the crude oil oligopoly market, or the impact of unilateral government directives (e.g., zero-emission and EV mandates) or annual United Nations Climate Change conferences. The noticeable lack of collaboration and interconnectivity among various stakeholders impedes efficient progress, subsequently hindering the sustainable growth of the auto industry. If addressing climate change is genuinely a universally acknowledged concern, it's time to foster collaboration across sectors and pave the way for impactful and sustainable growth in the auto industry.
+* Achieving a seamless energy transition requires a comprehensive approach that extends beyond the capabilities of individual automakers, the entirety of the crude oil oligopoly market, or the impact of unilateral government directives (e.g., zero-emission and EV mandates) or annual United Nations Climate Change conferences. The noticeable lack of collaboration and interconnectivity among various stakeholders impedes efficient progress, subsequently hindering the sustainable growth of the auto industry. If addressing climate change is genuinely a universally acknowledged concern, it's time to foster collaboration across sectors and pave the way for impactful and sustainable growth in the auto industry,as well as a more feasible hydrogen economy.
 
 
-## Collaborative Action Points for Different Stakeholders
+## Collaborative Action Points for Related Stakeholders
 1. **Oil Companies**
    * *Mitigating "Artificial" Tail Risk for The Better Economic Stability*
       * Oil companies must proactively address "artificial" tail risks, such as sudden supply chain changes, to ensure a stable economy. The 2023 instances of OPEC announcing oil production cuts underscore the importance of mitigating oil price volatility. Adjusting supply amounts is recognized as suboptimal for addressing both short-term profitability concerns and long-term development challenges, including navigating the energy transition and managing stress from potential "stranded assets." 
