@@ -2,7 +2,7 @@
 
 
 ## Key Findings
-* test 1
+* Achieving a seamless energy transition requires a comprehensive approach that extends beyond the capabilities of individual automakers, the entirety of the crude oil oligopoly market, or the impact of unilateral government directives (e.g., zero-emission and EV mandates) or annual United Nations Climate Change conferences. The noticeable lack of collaboration and interconnectivity among various stakeholders impedes efficient progress, subsequently hindering the sustainable growth of the auto industry. If addressing climate change is genuinely a universally acknowledged concern, it's time to foster collaboration across sectors and pave the way for impactful and sustainable growth in the auto industry.
 
 
 ## Collaborative Action Points for Different Stakeholders
@@ -34,10 +34,11 @@
         * Recognize that investing in infrastructure offers protection against inflation, presenting a proactive and practical approach to avoid unnecessary market volatility, rather than planning for an "uncertain" soft landing economy.
 
 4. **Cross-Boarder Organizations**
-   * *Enhancing Global Collaboration among cross-boarder organizations (E.g. EU,IMF,UN,OPEC,etc.)*
+   * *Increasing Meeting Frequencies for Sector-Specific Focus (e.g. Transportation)*
+      * Greenhouse gas emissions has daily occurrences, it is necessary to consider a higher frequency of meetings, particularly for sectors with significant environmental impact, such as transportation. For instance, from 1990-2021 in the US, where 79.4% of greenhouse gas emissions stem from CO2, and the transportation sector accounts for 28% of total emissions—making is the highest-polluting sector.
+      * While the UN Climate Conferences (COP) provide an annual official platform for global discourse, but there is a myriad of issues and topics demanding attention, with "the phase-out of fossil fuels" emerging as one of the most hotly debated topics at the current COP28. In light of these complexities and volume, increasing meeting frequencies is productive for addressing evolving challenges more promptly.
+   * *Enhancing Global Collaboration among cross-boarder organizations (E.g. UN, OPEC, IMF, EU,etc.)*
       * In pursuit of a more coordinated and effective response to pressing global climate change challenges, it is significantly important to foster proactive collaboration among multilateral institutions. The current IMF research report, "Unlocking Climate Finance in Asia-Pacific," mentioned that *"Multilateral institutions must collaborate to facilitate peer-to-peer learning across countries."* 
       * This collaborative approach could help to not only addresses the disparities between developed and developing countries but also mitigates potential geopolitical risks, achieving a more cohesive global strategy.Reference the pan-European hydrogen network published by the EU in 2023 as an exemplary model of effective cooperations, showcasing the power of collaboration in tackling climate change.
-   * *Increasing Meeting Frequencies for Sector-Specific Focus (e.g. Transportation)*
-      * Greenhouse gas emissions has daily occurrences, it is necessary to consider a higher frequency of meetings, particularly for sectors with significant environmental impact, such as transportation. For instance, in the US, where 79.2% of greenhouse gas emissions stem from CO2, and the transportation sector accounts for 28% of total emissions—making is the highest-polluting sector.
-      * While the UN Climate Conferences (COP) provide an annual official platform for global discourse, but there is a myriad of issues and topics demanding attention, with "the phase-out of fossil fuels" emerging as one of the most hotly debated topics at the current COP28. In light of these complexities and volume, increasing meeting frequencies is productive for addressing evolving challenges more promptly.
+
 
