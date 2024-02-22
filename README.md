@@ -4,7 +4,7 @@
 ## Project Series
 1. [Crude Oil Within the Context of Oligopoly Market](https://github.com/florencex5/Crude_Oil_Finance_Project.git)
 2. [Exploring the US EV Industry Through the US Bicycle Sharing System](https://github.com/florencex5/EV_and_Bicycle.git)
-3. **Collaborative Action Points for the Auto Industry Sustainable Development**
+3. **Collaborative Action Points for the Auto Industry Sustainable Development** [(Full Analysis Slides)](https://github.com/florencex5/Crude_Oil_Finance_Project_2/blob/main/Analysis_Slides_Final_Version.pdf)
 
 
 ## Key Finding
