@@ -7,7 +7,7 @@
 3. **Collaborative Action Points for the Auto Industry Sustainable Development**
 
 
-## Key Findings
+## Key Finding
 - The noticeable lack of *collaboration and interconnectivity* among various stakeholders impedes efficient progress, subsequently hindering the sustainable growth of the auto industry. If addressing climate change is genuinely a universally acknowledged concern, it's time to foster collaboration across sectors and pave the way for impactful and sustainable development in the auto industry, as well as a more feasible hydrogen economy.
 
 ## Collaborative Action Points for Related Stakeholders ([Full Analysis Report](https://github.com/florencex5/Crude_Oil_Finance_Project_2/blob/main/Analysis_Report.md))
